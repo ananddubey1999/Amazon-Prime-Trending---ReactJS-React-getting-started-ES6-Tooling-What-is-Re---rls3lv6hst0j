@@ -20,3 +20,7 @@ const App = ({slides}) => {
         </div>
       )
 }
+
+
+
+export default App;
